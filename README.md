@@ -3,6 +3,8 @@
 Meu segundo jogo usando linguagens web, este é um jogo de luta multiplayer com sprites 🎮👾
 </p>
 <h2>Este projeto foi feito com fins estudantis</h2>
+<h2>Link do Projeto</h2>
+<p>https://quiet-caramel-34df22.netlify.app/</p>
 <h3>Link do vídeo abaixo</h3>
 <p>https://youtu.be/vyqbNFMDRGQ</p>
 <h3>Link dos sprites abaixo</h3>
